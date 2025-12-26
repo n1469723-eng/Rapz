@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RAPZ - Quem entrega, conecta!",
+  "description": "A solução definitiva para conectar lojistas a motoboys de forma rápida, justa e eficiente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
